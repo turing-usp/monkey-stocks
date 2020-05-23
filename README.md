@@ -47,4 +47,8 @@ $ jupyter notebook
 
 E por fim, na barra de navegação clique em **kernel/change kernel** e altere o kernel para .venv
 
+## Autores
+
+- Guilherme Fernandes Gonçalves Silva [aateg](https://github.com/aateg)
+
 
